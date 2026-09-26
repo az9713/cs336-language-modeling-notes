@@ -2,7 +2,7 @@
 
 Independent, transcript-grounded study notes for **Stanford CS336, Spring 2026**, following all **18 recordings** in the Stanford Online playlist.
 
-**[Read the live study library](https://az9713.github.io/stanford-cs336/)** · [Interactive math lab](https://az9713.github.io/stanford-cs336/lab.html) · [Primary references](https://az9713.github.io/stanford-cs336/references.html) · [Timestamp source map](https://az9713.github.io/stanford-cs336/source-map.html) · [Validation and limitations](https://az9713.github.io/stanford-cs336/validation.html)
+**[Read the live study library](https://az9713.github.io/cs336-language-modeling-notes/)** · [Interactive math lab](https://az9713.github.io/cs336-language-modeling-notes/lab.html) · [Primary references](https://az9713.github.io/cs336-language-modeling-notes/references.html) · [Timestamp source map](https://az9713.github.io/cs336-language-modeling-notes/source-map.html) · [Validation and limitations](https://az9713.github.io/cs336-language-modeling-notes/validation.html)
 
 ## Stanford course and source recordings
 
@@ -36,24 +36,24 @@ Each chapter link below opens the rendered HTML on GitHub Pages. GitHub's README
 
 | Playlist position | Live chapter | Source recording | Edition |
 |---|---|---|---|
-| 01 | [Overview and tokenization](https://az9713.github.io/stanford-cs336/lecture-01.html) | [Watch](https://www.youtube.com/watch?v=JuoVZkPBiKk) | Expanded textbook chapter |
-| 02 | [Tensors and resource accounting](https://az9713.github.io/stanford-cs336/lecture-02.html) | [Watch](https://www.youtube.com/watch?v=kuYAsz7zspQ) | Expanded textbook chapter |
-| 03 | [Transformer architectures](https://az9713.github.io/stanford-cs336/lecture-03.html) | [Watch](https://www.youtube.com/watch?v=lVynu4bo1rY) | Expanded textbook chapter |
-| 04 | [Attention alternatives and MoE](https://az9713.github.io/stanford-cs336/lecture-04.html) | [Watch](https://www.youtube.com/watch?v=cKSwj_qZ8Jg) | Expanded textbook chapter |
-| 05 | [GPUs, TPUs, and data movement](https://az9713.github.io/stanford-cs336/lecture-05.html) | [Watch](https://www.youtube.com/watch?v=izZba4UA7iY) | Expanded textbook chapter |
-| 06 | [Kernels and Triton](https://az9713.github.io/stanford-cs336/lecture-06.html) | [Watch](https://www.youtube.com/watch?v=xnDHaNUvHBg) | Shorter study notes |
-| 07 | [Collectives and parallel training](https://az9713.github.io/stanford-cs336/lecture-07.html) | [Watch](https://www.youtube.com/watch?v=SzpOcwdIL0Y) | Shorter study notes |
-| 08 | [Sharding and hybrid parallelism](https://az9713.github.io/stanford-cs336/lecture-08.html) | [Watch](https://www.youtube.com/watch?v=6-cXp-aOmdg) | Shorter study notes |
-| 09 | [Scaling laws](https://az9713.github.io/stanford-cs336/lecture-09.html) | [Watch](https://www.youtube.com/watch?v=Q15rhEWZPQ4) | Shorter study notes |
-| 10 | [Inference](https://az9713.github.io/stanford-cs336/lecture-10.html) | [Watch](https://www.youtube.com/watch?v=EfM546A79aM) | Shorter study notes |
-| 11 | [Scaling recipes and optimizers](https://az9713.github.io/stanford-cs336/lecture-11.html) | [Watch](https://www.youtube.com/watch?v=vTfEyOyzV9E) | Shorter study notes |
-| 12 | [Evaluation](https://az9713.github.io/stanford-cs336/lecture-12.html) | [Watch](https://www.youtube.com/watch?v=JpAxdTWQJxM) | Shorter study notes |
-| 13 | [Data sources and provenance](https://az9713.github.io/stanford-cs336/lecture-13.html) | [Watch](https://www.youtube.com/watch?v=-qm0ln33G24) | Shorter study notes |
-| 14 | [Filtering and data mixtures](https://az9713.github.io/stanford-cs336/lecture-14.html) | [Watch](https://www.youtube.com/watch?v=5sxHosTLPF8) | Shorter study notes |
-| 15 | [Mid-training, SFT, and preferences](https://az9713.github.io/stanford-cs336/lecture-15.html) | [Watch](https://www.youtube.com/watch?v=2oH6PWPrYFo) | Shorter study notes |
-| 16 | [RL with verifiable rewards](https://az9713.github.io/stanford-cs336/lecture-16.html) | [Watch](https://www.youtube.com/watch?v=dIFAi87Ws4E) | Shorter study notes |
-| 17 | [Multimodality](https://az9713.github.io/stanford-cs336/lecture-17.html) | [Watch](https://www.youtube.com/watch?v=26FtD08ZpOU) | Shorter study notes |
-| 18 | [Dan Fu: inference and looped models](https://az9713.github.io/stanford-cs336/lecture-18.html) | [Watch](https://www.youtube.com/watch?v=9EEm4iMAF5s) | Shorter study notes |
+| 01 | [Overview and tokenization](https://az9713.github.io/cs336-language-modeling-notes/lecture-01.html) | [Watch](https://www.youtube.com/watch?v=JuoVZkPBiKk) | Expanded textbook chapter |
+| 02 | [Tensors and resource accounting](https://az9713.github.io/cs336-language-modeling-notes/lecture-02.html) | [Watch](https://www.youtube.com/watch?v=kuYAsz7zspQ) | Expanded textbook chapter |
+| 03 | [Transformer architectures](https://az9713.github.io/cs336-language-modeling-notes/lecture-03.html) | [Watch](https://www.youtube.com/watch?v=lVynu4bo1rY) | Expanded textbook chapter |
+| 04 | [Attention alternatives and MoE](https://az9713.github.io/cs336-language-modeling-notes/lecture-04.html) | [Watch](https://www.youtube.com/watch?v=cKSwj_qZ8Jg) | Expanded textbook chapter |
+| 05 | [GPUs, TPUs, and data movement](https://az9713.github.io/cs336-language-modeling-notes/lecture-05.html) | [Watch](https://www.youtube.com/watch?v=izZba4UA7iY) | Expanded textbook chapter |
+| 06 | [Kernels and Triton](https://az9713.github.io/cs336-language-modeling-notes/lecture-06.html) | [Watch](https://www.youtube.com/watch?v=xnDHaNUvHBg) | Shorter study notes |
+| 07 | [Collectives and parallel training](https://az9713.github.io/cs336-language-modeling-notes/lecture-07.html) | [Watch](https://www.youtube.com/watch?v=SzpOcwdIL0Y) | Shorter study notes |
+| 08 | [Sharding and hybrid parallelism](https://az9713.github.io/cs336-language-modeling-notes/lecture-08.html) | [Watch](https://www.youtube.com/watch?v=6-cXp-aOmdg) | Shorter study notes |
+| 09 | [Scaling laws](https://az9713.github.io/cs336-language-modeling-notes/lecture-09.html) | [Watch](https://www.youtube.com/watch?v=Q15rhEWZPQ4) | Shorter study notes |
+| 10 | [Inference](https://az9713.github.io/cs336-language-modeling-notes/lecture-10.html) | [Watch](https://www.youtube.com/watch?v=EfM546A79aM) | Shorter study notes |
+| 11 | [Scaling recipes and optimizers](https://az9713.github.io/cs336-language-modeling-notes/lecture-11.html) | [Watch](https://www.youtube.com/watch?v=vTfEyOyzV9E) | Shorter study notes |
+| 12 | [Evaluation](https://az9713.github.io/cs336-language-modeling-notes/lecture-12.html) | [Watch](https://www.youtube.com/watch?v=JpAxdTWQJxM) | Shorter study notes |
+| 13 | [Data sources and provenance](https://az9713.github.io/cs336-language-modeling-notes/lecture-13.html) | [Watch](https://www.youtube.com/watch?v=-qm0ln33G24) | Shorter study notes |
+| 14 | [Filtering and data mixtures](https://az9713.github.io/cs336-language-modeling-notes/lecture-14.html) | [Watch](https://www.youtube.com/watch?v=5sxHosTLPF8) | Shorter study notes |
+| 15 | [Mid-training, SFT, and preferences](https://az9713.github.io/cs336-language-modeling-notes/lecture-15.html) | [Watch](https://www.youtube.com/watch?v=2oH6PWPrYFo) | Shorter study notes |
+| 16 | [RL with verifiable rewards](https://az9713.github.io/cs336-language-modeling-notes/lecture-16.html) | [Watch](https://www.youtube.com/watch?v=dIFAi87Ws4E) | Shorter study notes |
+| 17 | [Multimodality](https://az9713.github.io/cs336-language-modeling-notes/lecture-17.html) | [Watch](https://www.youtube.com/watch?v=26FtD08ZpOU) | Shorter study notes |
+| 18 | [Dan Fu: inference and looped models](https://az9713.github.io/cs336-language-modeling-notes/lecture-18.html) | [Watch](https://www.youtube.com/watch?v=9EEm4iMAF5s) | Shorter study notes |
 
 The guest lecture is numbered 18 by playlist position. Chapter titles emphasize the material actually discussed; the source map records differences from the playlist's broader labels.
 
@@ -62,8 +62,8 @@ The guest lecture is numbered 18 by playlist position. Chapter titles emphasize 
 Clone the repository and run commands from its root:
 
 ```sh
-git clone https://github.com/az9713/stanford-cs336.git
-cd stanford-cs336
+git clone https://github.com/az9713/cs336-language-modeling-notes.git
+cd cs336-language-modeling-notes
 python -m pip install torch
 python -m unittest discover -s tests -v
 ```
@@ -82,6 +82,6 @@ Then open [the local reading library](http://localhost:8000/). The HTML and bund
 
 GitHub Pages serves the static files from the root of the `main` branch. `.nojekyll` preserves the static asset layout. This repository includes the rendered HTML, editable chapter Markdown, CPU lab, and lab tests. Private research inputs and authoring audit files are excluded.
 
-Validation covers caption provenance and playlist order during authoring, timestamp bounds, local links and anchors, selected numerical examples, executable listings, and desktop/mobile browser behavior. The [live validation report](https://az9713.github.io/stanford-cs336/validation.html) describes the scope and limits. No large-scale GPU training run or independent replication of the cited empirical research is claimed.
+Validation covers caption provenance and playlist order during authoring, timestamp bounds, local links and anchors, selected numerical examples, executable listings, and desktop/mobile browser behavior. The [live validation report](https://az9713.github.io/cs336-language-modeling-notes/validation.html) describes the scope and limits. No large-scale GPU training run or independent replication of the cited empirical research is claimed.
 
 Stanford materials and linked papers retain their respective rights. The bundled MathJax renderer retains its [upstream license](assets/mathjax-LICENSE). This repository does not relicense third-party course content.
