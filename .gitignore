@@ -1,0 +1,21 @@
+# Publish only authored reading files and the small CPU teaching lab.
+/*
+!/.gitignore
+!/.nojekyll
+!/README.md
+!/lecture-*.md
+!/*.html
+!/assets/
+/assets/*
+!/assets/mathjax-tex-svg.js
+!/assets/mathjax-LICENSE
+!/cs336_lab/
+/cs336_lab/*
+!/cs336_lab/*.py
+!/tests/
+/tests/*
+!/tests/test_architecture.py
+!/tests/test_attention.py
+!/tests/test_memory.py
+!/tests/test_resources.py
+!/tests/test_tokenization.py
